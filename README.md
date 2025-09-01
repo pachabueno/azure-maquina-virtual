@@ -24,3 +24,7 @@ As capturas de tela estão disponíveis na pasta `/images` para ilustrar cada et
 ## 🚀 Conclusão
 
 Este laboratório foi essencial para consolidar meus conhecimentos em computação em nuvem e me preparar para desafios reais no mercado de tecnologia.
+## ✅ Conclusão
+
+Este laboratório foi essencial para consolidar meus conhecimentos em máquinas virtuais na Azure. Aprendi a criar, configurar e acessar uma VM, além de documentar todo o processo usando o GitHub como ferramenta profissional.
+
